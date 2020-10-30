@@ -1,0 +1,36 @@
+.container{
+    background-color: #ffffff;
+}
+
+.container_cabecera{
+    background-color: #d0dee4;
+}
+
+div.perfil {
+    width: 50%;
+    margin: 20px auto;
+    background-color: rgba(3, 34, 80, 0.096);
+    color: rgb(63, 59, 85);
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  div.perfil img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  div.reset {
+    clear: both;
+  }
+
+  .informe {
+      text-align: center;
+      padding-top: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .botones{
+      text-align: center;
+  }
+  

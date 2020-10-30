@@ -1,0 +1,52 @@
+body {
+    background-image:url(/img/fondo.png);
+  }
+
+.calendario{
+  display:block;
+  margin:auto;
+  padding-top: 35px;
+  
+}
+
+.division{
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 1px;
+}
+
+.seldia{
+  font-family: Tenor Sans, sans-serif;
+  text-align: center;
+  color: rgb(70, 69, 69);
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 20;
+  background-color: #4c82af;
+  color: white;
+  padding: 14px 20px;
+  margin: 35px 645px;
+  border: none;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #457ba0;
+}
+
+.imgb{
+text-decoration: none;
+}
+
+
